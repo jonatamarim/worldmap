@@ -1,14 +1,14 @@
 [
   {
-    "key" : "SINFRA",
+    "key" : "SI",
     "name" : "SINFRA",
-    "latitude" : -15.6076279675259,
-    "longitude" : -56.06013515945503
+    "latitude" : -15.6076,
+    "longitude" : -56.06013
   },
   {
-    "key" : "UNISELVA",
+    "key" : "UN",
     "name" : "UNISELVA",
-    "latitude" : -15.608696542036688,
-    "longitude" : -56.05990570074475
+    "latitude" : -15.6086,
+    "longitude" : -56.0599
   }
 ]

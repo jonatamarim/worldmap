@@ -6,8 +6,8 @@
     "longitude" : -56.0599
   },
   {
-    "key" : "EIT",
-    "name" : "EIT",
+    "key" : "EIT/EPP",
+    "name" : "EIT/EPP",
     "latitude" : -15.6121,
     "longitude" : -56.0667
   },
@@ -373,19 +373,13 @@
   },
   {
     "key" : "ICHS",
-    "name" : "xxxxxxxxxxxx",
+    "name" : "ICHS",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
   {
     "key" : "PRAE/PROCEV",
     "name" : "PRAE/PROCEV",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
-  },
-  {
-    "key" : "EIT/EPP",
-    "name" : "EIT/EPP",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },
@@ -464,12 +458,6 @@
   {
     "key" : "SETEC",
     "name" : "SETEC",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
-  },
-  {
-    "key" : "REITORIA",
-    "name" : "REITORIA",
     "latitude" : -20.3155,
     "longitude" : -40.3128
   },

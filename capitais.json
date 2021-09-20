@@ -8,469 +8,469 @@
   {
     "key" : "EIT/EPP",
     "name" : "EIT/EPP",
-    "latitude" : -15.6121,
-    "longitude" : -56.0667
+    "latitude" : -15.6087,
+    "longitude" : -56.0602
   },
   {
     "key" : "CEU-CAMPUS",
     "name" : "CEU-CAMPUS",
-    "latitude" : -15.6091,
+    "latitude" : -15.6090,
     "longitude" : -56.0596
   },
   {
     "key" : "PATRIMONIO",
     "name" : "PATRIMONIO",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "latitude" : -15.6088,
+    "longitude" : -56.0603
   },
   {
     "key" : "GRAFICA",
     "name" : "GRAFICA",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "latitude" : -15.6087,
+    "longitude" : -56.0599
   },
   {
     "key" : "CDH",
     "name" : "CDH",
-    "latitude" : -20.4486,
-    "longitude" : -54.6295
+    "latitude" : -15.6091,
+    "longitude" : -56.0600
   },
   {
     "key" : "AREA VERDE",
     "name" : "AREA VERDE",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "latitude" : -15.6097,
+    "longitude" : -56.0599
   },
   {
     "key" : "CACS",
     "name" : "CACS",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "latitude" : -15.6098,
+    "longitude" : -56.0604
   },
   {
     "key" : "SGP",
     "name" : "SGP",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
+    "latitude" : -15.6100,
+    "longitude" : -56.0604
   },
   {
     "key" : "PROTOCOLO",
     "name" : "PROTOCOLO",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "latitude" : -15.6098,
+    "longitude" : -56.0608
   },
   {
     "key" : "TVU",
     "name" : "TVU",
-    "latitude" : -16.6864,
-    "longitude" : -49.2643
+    "latitude" : -15.6102,
+    "longitude" : -56.0605
   },
   {
     "key" : "PROPG",
     "name" : "PROPG",
-    "latitude" : -7.11509,
-    "longitude" : -34.8641
+    "latitude" : -15.6100,
+    "longitude" : -56.0606
   },
   {
     "key" : "PROEG",
     "name" : "PROEG",
-    "latitude" : 0.034934,
-    "longitude" : -51.0694
+    "latitude" : -15.6098,
+    "longitude" : -56.0608
   },
   {
     "key" : "PROPEQ",
     "name" : "PROPEQ",
-    "latitude" : -9.66599,
-    "longitude" : -35.735
+    "latitude" : -15.6099,
+    "longitude" : -56.0607
   },
   {
     "key" : "PROPLAN",
     "name" : "PROPLAN",
-    "latitude" : -3.11866,
-    "longitude" : -60.0212
+    "latitude" : -15.6100,
+    "longitude" : -56.0606
   },
   {
     "key" : "CEA",
     "name" : "CEA",
-    "latitude" : -5.79357,
-    "longitude" : -35.1986
+    "latitude" : -15.6103,
+    "longitude" : -56.0604
   },
   {
     "key" : "FANUT-PREDIONOVO",
     "name" : "FANUT-PREDIONOVO",
-    "latitude" : -10.24,
-    "longitude" : -48.3558
+    "latitude" : -15.6087,
+    "longitude" : -56.0610
   },
   {
     "key" : "CUVG-TERREO",
     "name" : "CUVG-TERREO",
-    "latitude" : -30.0318,
-    "longitude" : -51.2065
+    "latitude" : -15.6094,
+    "longitude" : -56.0614
   },
   {
     "key" : "CUVG-SUBSOLO",
     "name" : "CUVG-SUBSOLO",
-    "latitude" : -8.76077,
-    "longitude" : -63.8999
+    "latitude" : -15.6091,
+    "longitude" : -56.0615
   },
   {
     "key" : "DIREITO",
     "name" : "DIREITO",
-    "latitude" : -8.04666,
-    "longitude" : -34.8771
+    "latitude" : -15.6098,
+    "longitude" : -56.0618
   },
   {
     "key" : "REITORIA",
     "name" : "REITORIA",
-    "latitude" : -9.97499,
-    "longitude" : -67.8243
+    "latitude" : -15.6109,
+    "longitude" : -56.0626
   },
   {
     "key" : "SECRI/CEV",
     "name" : "SECRI/CEV",
-    "latitude" : -22.9129,
-    "longitude" : -43.2003
+    "latitude" : -15.6095,
+    "longitude" : -56.0619
   },
   {
     "key" : "FM",
     "name" : "FM",
-    "latitude" : -12.9718,
-    "longitude" : -38.5011
+    "latitude" : -15.6081,
+    "longitude" : -56.0615
   },
   {
     "key" : "FANUT",
     "name" : "FANUT",
-    "latitude" : -2.53874,
-    "longitude" : -44.2825
+    "latitude" : -15.6084,
+    "longitude" : -56.0614
   },
   {
     "key" : "IB",
     "name" : "IB",
-    "latitude" : -23.5329,
-    "longitude" : -46.6395
+    "latitude" : -15.6085,
+    "longitude" : -56.0620
   },
   {
     "key" : "ISC",
     "name" : "ISC",
-    "latitude" : -5.09194,
-    "longitude" : -42.8034
+    "latitude" : -15.6088,
+    "longitude" : -56.0624
   },
   {
     "key" : "FAEN",
     "name" : "FAEN",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6090,
+    "longitude" : -56.0628
   },
   {
     "key" : "FISICA AMBIENTAL",
     "name" : "FISICA AMBIENTAL",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6088,
+    "longitude" : -56.0632
   },
   {
     "key" : "IC",
     "name" : "IC",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6083,
+    "longitude" : -56.0628
   },
   {
     "key" : "BIODIVERSIDADE",
     "name" : "BIODIVERSIDADE",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6081,
+    "longitude" : -56.0624
   },
   {
     "key" : "SINFRA",
     "name" : "SINFRA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6075,
+    "longitude" : -56.0603
   },
   {
     "key" : "BIOTERIO CENTRAL",
     "name" : "BIOTERIO CENTRAL",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6070,
+    "longitude" : -56.0620
   },
   {
     "key" : "ZOOLOGICO",
     "name" : "ZOOLOGICO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6057,
+    "longitude" : -56.0630
   },
   {
     "key" : "LACANM",
     "name" : "LACANM",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6068,
+    "longitude" : -56.0629
   },
   {
     "key" : "LABEM",
     "name" : "LABEM",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6071,
+    "longitude" : -56.0625
   },
   {
     "key" : "IF-CMPM",
     "name" : "IF-CMPM",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6071,
+    "longitude" : -56.0634
   },
   {
     "key" : "CEANC",
     "name" : "CEANC",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6070,
+    "longitude" : -56.0631
   },
   {
     "key" : "IF",
     "name" : "IF",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6071,
+    "longitude" : -56.0637
   },
   {
     "key" : "ESA",
     "name" : "ESA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6074,
+    "longitude" : -56.0635
   },
   {
     "key" : "QUIMICA",
     "name" : "QUIMICA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6076,
+    "longitude" : -56.0633
   },
   {
     "key" : "FAGEO",
     "name" : "FAGEO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6076,
+    "longitude" : -56.0637
   },
   {
     "key" : "MUSEU DE MINERAIS",
     "name" : "MUSEU DE MINERAIS",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6072,
+    "longitude" : -56.0641
   },
   {
     "key" : "ELETRICA",
     "name" : "ELETRICA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6078,
+    "longitude" : -56.0640
   },
   {
     "key" : "ARQUITETURA",
     "name" : "ARQUITETURA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6083,
+    "longitude" : -56.0647
   },
   {
     "key" : "SANTINHO",
     "name" : "SANTINHO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6077,
+    "longitude" : -56.0646
   },
   {
     "key" : "LAB. DE ESTRUTURAS",
     "name" : "LAB. DE ESTRUTURAS",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6075,
+    "longitude" : -56.0645
   },
   {
     "key" : "ENG. CIVIL",
     "name" : "ENG. CIVIL",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6082,
+    "longitude" : -56.0641
   },
   {
     "key" : "ICET/FAET ADMINISTRATIVO",
     "name" : "ICET/FAET ADMINISTRATIVO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6082,
+    "longitude" : -56.0651
   },
   {
     "key" : "PPGEEA",
     "name" : "PPGEEA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6083,
+    "longitude" : -56.0649
   },
   {
     "key" : "RU",
     "name" : "RU",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6083,
+    "longitude" : -56.0660
   },
   {
-    "key" : "FENF",
-    "name" : "FENF",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "key" : "FEF",
+    "name" : "FEF",
+    "latitude" : -15.6100,
+    "longitude" : -56.0668
   },
   {
     "key" : "COT",
     "name" : "COT",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6105,
+    "longitude" : -56.0690
   },
   {
     "key" : "QUADRAS EXTERNAS",
     "name" : "QUADRAS EXTERNAS",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6122,
+    "longitude" : -56.0695
   },
   {
     "key" : "GUARITA 1",
     "name" : "GUARITA 1",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6125,
+    "longitude" : -56.0710
   },
   {
     "key" : "COORD. DE SEGURANÇA",
     "name" : "COORD. DE SEGURANÇA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.3155,
+    "longitude" : -56.0697
   },
   {
     "key" : "MUSEU RONDON",
     "name" : "MUSEU RONDON",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6143,
+    "longitude" : -56.0720
   },
   {
     "key" : "IL",
     "name" : "IL",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6149,
+    "longitude" : -56.0714
   },
   {
     "key" : "IE",
     "name" : "IE",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6153,
+    "longitude" : -56.0712
   },
   {
     "key" : "SPA",
     "name" : "SPA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6141,
+    "longitude" : -56.0711
   },
   {
     "key" : "FCA",
     "name" : "FCA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6147,
+    "longitude" : -56.0713
   },
   {
     "key" : "FACC/IGHD",
     "name" : "FACC/IGHD",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6141,
+    "longitude" : -56.0705
   },
   {
     "key" : "FE",
     "name" : "FE",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6140,
+    "longitude" : -56.0704
   },
   {
     "key" : "ICHS",
     "name" : "ICHS",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6131,
+    "longitude" : -56.0691
   },
   {
     "key" : "PRAE/PROCEV",
     "name" : "PRAE/PROCEV",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6122,
+    "longitude" : -56.0675
   },
   {
     "key" : "EQUOTERAPIA",
     "name" : "EQUOTERAPIA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6118,
+    "longitude" : -56.0668
   },
   {
     "key" : "RIDESA",
     "name" : "RIDESA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6118,
+    "longitude" : -56.0663
   },
   {
     "key" : "HOVET",
     "name" : "HOVET",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6115,
+    "longitude" : -56.0659
   },
   {
     "key" : "CAE",
     "name" : "CAE",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6109,
+    "longitude" : -56.0665
   },
   {
     "key" : "BLOCO DIDATICO AGRONOMIA",
     "name" : "BLOCO DIDATICO AGRONOMIA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6107,
+    "longitude" : -56.0666
   },
   {
     "key" : "FAVET",
     "name" : "FAVET",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6112,
+    "longitude" : -56.0655
   },
   {
     "key" : "FAAZ",
     "name" : "FAAZ",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6108,
+    "longitude" : -56.0655
   },
   {
     "key" : "FENF",
     "name" : "FENF",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6104,
+    "longitude" : -56.0649
   },
   {
     "key" : "FENF BLOCO DIDATICO",
     "name" : "FENF BLOCO DIDATICO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6100,
+    "longitude" : -56.0650
   },
   {
     "key" : "AGRICULTURA TROPICAL",
     "name" : "AGRICULTURA TROPICAL",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6103,
+    "longitude" : -56.0659
   },
   {
     "key" : "CASS",
     "name" : "CASS",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6111,
+    "longitude" : -56.0636
   },
   {
     "key" : "EDITORA",
     "name" : "EDITORA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6113,
+    "longitude" : -56.0629
   },
   {
     "key" : "SETEC",
     "name" : "SETEC",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6098,
+    "longitude" : -56.0647
   },
   {
     "key" : "BIBLIOTECA",
     "name" : "BIBLIOTECA",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6105,
+    "longitude" : -56.0628
   },
   {
     "key" : "TEATRO",
     "name" : "TEATRO",
-    "latitude" : -20.3155,
-    "longitude" : -40.3128
+    "latitude" : -15.6098,
+    "longitude" : -56.0634
   }
 ]

@@ -102,14 +102,14 @@
     "longitude" : -56.0610
   },
   {
-    "key" : "CUVG-TERREO",
-    "name" : "CUVG-TERREO",
+    "key" : "CUVG-FIBRA2-LAB.ESTAT",
+    "name" : "CUVG-FIBRA2-LAB.ESTAT",
     "latitude" : -15.6094,
     "longitude" : -56.0614
   },
   {
-    "key" : "CUVG-SUBSOLO",
-    "name" : "CUVG-SUBSOLO",
+    "key" : "CUVG-FIBRA1-CA",
+    "name" : "CUVG-FIBRA1-CA",
     "latitude" : -15.6091,
     "longitude" : -56.0615
   },

@@ -38,32 +38,32 @@
   {
     "key" : "AREA VERDE",
     "name" : "AREA VERDE",
-    "latitude" : -15.6097,
-    "longitude" : -56.0599
+    "latitude" : -15.60982,
+    "longitude" : -56.05990
   },
   {
     "key" : "CACS",
     "name" : "CACS",
-    "latitude" : -15.6098,
-    "longitude" : -56.0604
+    "latitude" : -15.60986,
+    "longitude" : -56.06042
   },
   {
     "key" : "SGP",
     "name" : "SGP",
-    "latitude" : -15.6100,
-    "longitude" : -56.0604
+    "latitude" : -15.61014,
+    "longitude" : -56.06044
   },
   {
     "key" : "PROTOCOLO",
     "name" : "PROTOCOLO",
-    "latitude" : -15.6098,
-    "longitude" : -56.0608
+    "latitude" : -15.60982,
+    "longitude" : -56.06088
   },
   {
     "key" : "TVU",
     "name" : "TVU",
-    "latitude" : -15.6102,
-    "longitude" : -56.0605
+    "latitude" : -15.61024,
+    "longitude" : -56.06056
   },
   {
     "key" : "PROPG",
@@ -80,20 +80,20 @@
   {
     "key" : "PROPEQ",
     "name" : "PROPEQ",
-    "latitude" : -15.6099,
-    "longitude" : -56.0607
+    "latitude" : -15.61012,
+    "longitude" : -56.06064
   },
   {
     "key" : "PROPLAN",
     "name" : "PROPLAN",
-    "latitude" : -15.6100,
-    "longitude" : -56.0606
+    "latitude" : -15.61009,
+    "longitude" : -56.06074
   },
   {
     "key" : "CEA",
     "name" : "CEA",
-    "latitude" : -15.6103,
-    "longitude" : -56.0604
+    "latitude" : -15.61030,
+    "longitude" : -56.06049
   },
   {
     "key" : "FANUT-PREDIONOVO",
@@ -236,8 +236,8 @@
   {
     "key" : "QUIMICA",
     "name" : "QUIMICA",
-    "latitude" : -15.6078,
-    "longitude" : -56.0632
+    "latitude" : -15.60779,
+    "longitude" : -56.06329
   },
   {
     "key" : "FAGEO",
